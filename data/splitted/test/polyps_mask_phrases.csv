@@ -1,0 +1,317 @@
+img_id,mask_id,q,question,answer
+cl8k2u1pw1e6n0832bvpu2oxu,cl8k2u1pw1e6n0832bvpu2oxu,What is the size of the polyp?,What is the size of the polyp?,polyp larger than 20 millimeters
+cl8k2u1pu1e3z0832boad4onn,cl8k2u1pu1e3z0832boad4onn,What type of polyp is present?,What is the type of polyp observed?,polyp with sessile morphology
+clb0lbwz9dowk086uh2wxexpq,clb0lbwz9dowk086uh2wxexpq,What is the size of the polyp?,What is the size of the observed polyp?,polyp measuring greater than 20 millimeters
+cl8k2u1s61gwb0832cv7r4a6x,cl8k2u1s61gwb0832cv7r4a6x,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+clb0lbwzbdozo086u48f73cek,clb0lbwzbdozo086u48f73cek,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,evidence of hyperplastic polyp
+cl8k2u1rn1gfz08329dco29e5,cl8k2u1rn1gfz08329dco29e5,What type of polyp is present?,What type of polyp is observed?,polyp consistent with paris iia classification
+cl8k2u1s31gsf08324un1e87w,cl8k2u1s31gsf08324un1e87w,What type of polyp is present?,What is the classification of the identified polyp?,polyp consistent with paris iia type
+cl8k2u1r61fob083282xpdnf5,cl8k2u1r61fob083282xpdnf5,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of paris-type polyp
+cl8k2u1qr1f5j08325e5i8d1w,cl8k2u1qr1f5j08325e5i8d1w,How many polyps are in the image?,How many polyps are present in the image?,one polyp observed
+cl8k2u1r61fn7083227omcdwh,cl8k2u1r61fn7083227omcdwh,How many polyps are in the image?,How many polyps are visible in the image?,one polyp detected
+clb0kvxvp912k074y1exo79ka,clb0kvxvp912k074y1exo79ka,How many polyps are in the image?,How many polyps are present in the image?,one polyp observed
+cl8k2u1re1g0f083216lt8w98,cl8k2u1re1g0f083216lt8w98,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of pedunculated polyp
+cl8k2u1s61gv7083246ql99yw,cl8k2u1s61gv7083246ql99yw,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring between 11 and 20 millimeters
+cl8k2u1pv1e4v0832ap412ikk,cl8k2u1pv1e4v0832ap412ikk,How many polyps are in the image?,How many polyps are visible in the image?,two small polyps observed
+cl8k2u1re1g0f083216lt8w98,cl8k2u1re1g0f083216lt8w98,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1r61fob083282xpdnf5,cl8k2u1r61fob083282xpdnf5,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures 5 to 10 millimeters
+cl8k2u1q21een0832hbnr9356,cl8k2u1q21een0832hbnr9356,What is the size of the polyp?,What is the size of the polyp?,polyp less than 5 millimeters in size
+cl8k2u1s61gv7083246ql99yw,cl8k2u1s61gv7083246ql99yw,How many polyps are in the image?,How many polyps are visible in the image?,one polyp detected
+cl8k2u1qe1erf08322me4a5yv,cl8k2u1qe1erf08322me4a5yv,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1q21een0832hbnr9356,cl8k2u1q21een0832hbnr9356,What type of polyp is present?,What type of colonic polyp is observed?,polyp consistent with paris iia classification
+cl8k2u1px1e7r083210068epn,cl8k2u1px1e7r083210068epn,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1pv1e4v0832ap412ikk,cl8k2u1pv1e4v0832ap412ikk,What is the size of the polyp?,What is the size of the polyp?,polyp larger than 20 millimeters
+clb0lbwzbdozs086uc9cf863b,clb0lbwzbdozs086uc9cf863b,What type of polyp is present?,What type of polyp is observed?,adenomatous polyp noted
+clb0lbwzbdoz8086ub4pp7823,clb0lbwzbdoz8086ub4pp7823,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of pedunculated polyp
+cl8k2u1qe1ern0832hpgj7kgo,cl8k2u1qe1ern0832hpgj7kgo,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures less than 5 millimeters
+cl8k2u1pu1e3v083257f95du5,cl8k2u1pu1e3v083257f95du5,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1rc1fwz08322ztc5nk1,cl8k2u1rc1fwz08322ztc5nk1,What type of polyp is present?,What type of polyp is observed in the colon?,pedunculated polyp with sessile features
+cl8k2u1rm1gdf08322c548w2q,cl8k2u1rm1gdf08322c548w2q,What type of polyp is present?,What is the classification of the identified polyp?,type IIa polyp with sessile morphology
+cl8k2u1qd1eq7083273ek8l01,cl8k2u1qd1eq7083273ek8l01,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1qh1ewn083268v3cizw,cl8k2u1qh1ewn083268v3cizw,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1qd1eqf0832a1g004hb,cl8k2u1qd1eqf0832a1g004hb,What type of polyp is present?,What type of polyp is observed in the image?,evidence of sessile polyp in the cecum
+cl8k2u1s81gxj0832bokx1tpc,cl8k2u1s81gxj0832bokx1tpc,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures 5 to 10 millimeters
+cl8k2u1rm1ge708329c926y3m,cl8k2u1rm1ge708329c926y3m,What is the size of the polyp?,What is the size of the polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1qf1etr0832g1k5358d,cl8k2u1qf1etr0832g1k5358d,How many polyps are in the image?,How many polyps are present in the image?,single polyp identified
+cl8k2u1s11gpv08321jjf8usi,cl8k2u1s11gpv08321jjf8usi,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1rr1gkz08328k7q01on,cl8k2u1rr1gkz08328k7q01on,How many polyps are in the image?,How many polyps are visible in the image?,one polyp observed
+cl8k2u1r31fiz0832duwaht8l,cl8k2u1r31fiz0832duwaht8l,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1qb1emn08329of3h1wc,cl8k2u1qb1emn08329of3h1wc,How many polyps are in the image?,How many polyps are visible in the image?,one polyp detected
+cl8k2u1qx1fer08321oy2cvhm,cl8k2u1qx1fer08321oy2cvhm,How many polyps are in the image?,How many polyps are visible in the image?,one visible polyp
+cl8k2u1qd1eq7083273ek8l01,cl8k2u1qd1eq7083273ek8l01,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1qe1erv08322xfkdfxq,cl8k2u1qe1erv08322xfkdfxq,How many polyps are in the image?,How many polyps are visible in the image?,one small polyp noted
+clb0lbwz4doqw086u45hw7gnu,clb0lbwz4doqw086u45hw7gnu,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring greater than 20 millimeters
+clb0lbwzcdp08086u1tnn800j,clb0lbwzcdp08086u1tnn800j,How many polyps are in the image?,How many polyps are visible in the image?,one small polyp observed
+clb0lbwzbdozo086u48f73cek,clb0lbwzbdozo086u48f73cek,What is the size of the polyp?,What is the size of the polyp?,polyp measuring 11 to 20 millimeters
+clb0lbwzddp1k086uai6ke9bz,clb0lbwzddp1k086uai6ke9bz,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1rf1g2n08320hdhely7,cl8k2u1rf1g2n08320hdhely7,How many polyps are in the image?,How many polyps are visible in the image?,one polyp noted
+cl8k2u1rl1gc30832hzw32av2,cl8k2u1rl1gc30832hzw32av2,What is the size of the polyp?,What is the size of the polyp?,polyp measuring 11 to 20 millimeters
+clb0lbwzldpas086u7wmu2i4r,clb0lbwzldpas086u7wmu2i4r,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of pedunculated polyp
+cl8k2u1rs1gnn0832gspp2xwq,cl8k2u1rs1gnn0832gspp2xwq,How many polyps are in the image?,How many polyps are visible in the image?,One polyp noted
+cl8k2u1r51fln0832hlfl7xxo,cl8k2u1r51fln0832hlfl7xxo,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring greater than 20 millimeters
+clb0lbwzpdpgo086ucmqx7nyu,clb0lbwzpdpgo086ucmqx7nyu,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures greater than 20 millimeters
+cl8k2u1pu1e3v083257f95du5,cl8k2u1pu1e3v083257f95du5,What type of polyp is present?,What is the type of polyp observed?,adenomatous polyp seen in rectum
+cl8k2u1q21ef3083281hg99ik,cl8k2u1q21ef3083281hg99ik,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring between 11 to 20 millimeters
+cl8k2u1r91fsn0832f9iybn7t,cl8k2u1r91fsn0832f9iybn7t,How many polyps are in the image?,How many polyps are visible in the image?,one polyp observed
+cl8k2u1qr1f5r0832h09pejru,cl8k2u1qr1f5r0832h09pejru,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1ri1g6z0832bhcvbzco,cl8k2u1ri1g6z0832bhcvbzco,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 5 to 10 millimeters
+clb0lbwzbdozs086uc9cf863b,clb0lbwzbdozs086uc9cf863b,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+clb0lbwzqdph8086u0xcbg904,clb0lbwzqdph8086u0xcbg904,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures between 5 to 10 millimeters
+cl8k2u1ps1e0b08329arp8xig,cl8k2u1ps1e0b08329arp8xig,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures greater than 20 millimeters
+clb0lbwzcdp04086u2ers8b4l,clb0lbwzcdp04086u2ers8b4l,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,adenomatous polyp noted
+cl8k2u1rk1gb70832ftqpa6hv,cl8k2u1rk1gb70832ftqpa6hv,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,presence of paris-type polyp
+cl8k2u1rc1fxj08320z30bgrq,cl8k2u1rc1fxj08320z30bgrq,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+clb0lbwz8dovw086u05yk7u55,clb0lbwz8dovw086u05yk7u55,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures 5 to 10 millimeters
+cl8k2u1qx1fer08321oy2cvhm,cl8k2u1qx1fer08321oy2cvhm,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,polyp consistent with paris iia classification
+cl8k2u1qq1f2z08321wur88n7,cl8k2u1qq1f2z08321wur88n7,What type of polyp is present?,What type of polyp is identified in the image?,evidence of parietal polyps
+cl8k2u1rb1fvz0832auie3734,cl8k2u1rb1fvz0832auie3734,What is the size of the polyp?,What is the size of the polyp?,polyp measuring 11 to 20 millimeters
+clb0lbwzcdp08086u1tnn800j,clb0lbwzcdp08086u1tnn800j,Have all polyps been removed?,Has complete removal of all polyps been achieved?,all polyps successfully removed
+cl8k2u1qw1fcj0832dn27bew0,cl8k2u1qw1fcj0832dn27bew0,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring less than 5 millimeters
+cl8k2u1qb1emj0832h81ia67l,cl8k2u1qb1emj0832h81ia67l,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of parietal polyps
+cl8k2u1r51fmj08323olc6u0o,cl8k2u1r51fmj08323olc6u0o,What is the size of the polyp?,What is the size of the polyp detected?,polyp measures 11 to 20 millimeters
+cl8k2u1rc1fy708323s0b9fz5,cl8k2u1rc1fy708323s0b9fz5,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+clb0lbwzudplw086u4uo411n7,clb0lbwzudplw086u4uo411n7,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,evidence of paris-type polyp
+cl8k2u1r71fpz0832577ffviu,cl8k2u1r71fpz0832577ffviu,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring greater than 20 millimeters
+cl8k2u1po1dxj0832cfis0nt5,cl8k2u1po1dxj0832cfis0nt5,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of paris-type polyp
+clb0lbwzudplw086u4uo411n7,clb0lbwzudplw086u4uo411n7,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring between 11 to 20 millimeters
+cl8k2u1rh1g57083294xncaia,cl8k2u1rh1g57083294xncaia,How many polyps are in the image?,How many polyps are present in the image?,one polyp observed
+cl8k2u1s31gsf08324un1e87w,cl8k2u1s31gsf08324un1e87w,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures less than 5 millimeters
+clb0lbwz8dovc086uaq3u7u8m,clb0lbwz8dovc086uaq3u7u8m,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of pedunculated polyp
+cl8k2u1qe1erf08322me4a5yv,cl8k2u1qe1erf08322me4a5yv,What type of polyp is present?,What type of polyp is observed in the examination?,classified as Paris IIa type polyp
+cl8k2u1rp1ghn0832hi704dfd,cl8k2u1rp1ghn0832hi704dfd,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1rh1g5z083229eb3r24,cl8k2u1rh1g5z083229eb3r24,What is the size of the polyp?,What is the size of the polyp?,polyp measures 5 to 10 millimeters
+cl8k2u1r51fmj08323olc6u0o,cl8k2u1r51fmj08323olc6u0o,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1rh1g5z083229eb3r24,cl8k2u1rh1g5z083229eb3r24,How many polyps are in the image?,How many polyps are visible in the image?,one polyp observed
+cl8k2u1qe1erv08322xfkdfxq,cl8k2u1qe1erv08322xfkdfxq,What type of polyp is present?,What is the type of polyp seen?,evidence of paris-type polyp
+cl8k2u1qh1ew3083264oqgn69,cl8k2u1qh1ew3083264oqgn69,What is the size of the polyp?,What is the size of the polyp observed?,polyp measuring less than 5 millimeters
+cl8k2u1rm1gdz08320ch8eymz,cl8k2u1rm1gdz08320ch8eymz,What is the size of the polyp?,What is the size of the observed polyp?,polyp smaller than 5 millimeters
+cl8k2u1rp1giv0832eo3o2ax1,cl8k2u1rp1giv0832eo3o2ax1,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of hyperplastic polyp
+cl8k2u1qx1fer08321oy2cvhm,cl8k2u1qx1fer08321oy2cvhm,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures 5 to 10 millimeters
+cl8k2u1rn1gfz08329dco29e5,cl8k2u1rn1gfz08329dco29e5,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures less than 5 millimeters
+cl8k2u1r31fiz0832duwaht8l,cl8k2u1r31fiz0832duwaht8l,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 5 to 10 millimeters
+clb0lbwzcdp04086u2ers8b4l,clb0lbwzcdp04086u2ers8b4l,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures greater than 20 millimeters
+cl8k2u1r91ft308328thwcln0,cl8k2u1r91ft308328thwcln0,How many polyps are in the image?,How many polyps are visible in the image?,one visible polyp
+clb0lbwzbdozo086u48f73cek,clb0lbwzbdozo086u48f73cek,How many polyps are in the image?,How many polyps are present in the image?,one visible polyp
+cl8k2u1qr1f5r0832h09pejru,cl8k2u1qr1f5r0832h09pejru,What type of polyp is present?,What type of polyp is identified in the examination?,polyp consistent with paris iia classification
+clb0lbwzpdpgo086ucmqx7nyu,clb0lbwzpdpgo086ucmqx7nyu,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1rg1g4n083280f87jgw,cl8k2u1rg1g4n083280f87jgw,How many polyps are in the image?,How many polyps are present in the image?,two polypoid lesions observed
+cl8k2u1rb1fvj08321qg834vk,cl8k2u1rb1fvj08321qg834vk,How many polyps are in the image?,How many polyps are present in the image?,Two small polyps identified
+clb0kvxvp912k074y1exo79ka,clb0kvxvp912k074y1exo79ka,What is the size of the polyp?,What is the measured size of the polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1qd1eqf0832a1g004hb,cl8k2u1qd1eqf0832a1g004hb,What is the size of the polyp?,What is the size of the polyp detected?,polyp measures greater than 20 millimeters
+cl8k2u1r91fsn0832f9iybn7t,cl8k2u1r91fsn0832f9iybn7t,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1qr1f5j08325e5i8d1w,cl8k2u1qr1f5j08325e5i8d1w,What is the size of the polyp?,What is the size of the polyp detected?,polyp larger than 20 millimeters
+cl8k2u1qh1ewn083268v3cizw,cl8k2u1qh1ewn083268v3cizw,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures between 11 to 20 millimeters
+cl8k2u1r61fob083282xpdnf5,cl8k2u1r61fob083282xpdnf5,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+clb0lbwyndoc4086ufugg5lny,clb0lbwyndoc4086ufugg5lny,How many polyps are in the image?,How many polyps are present in the gastrointestinal image?,four visible polyps noted
+cl8k2u1po1dxr0832134h89bv,cl8k2u1po1dxr0832134h89bv,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of Paris-type polyp
+cl8k2u1re1g0308323bo95y7k,cl8k2u1re1g0308323bo95y7k,What is the size of the polyp?,What is the size of the detected polyp?,polyp larger than 20 millimeters
+cl8k2u1r91fsn0832f9iybn7t,cl8k2u1r91fsn0832f9iybn7t,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of paris-type polyp
+cl8k2u1ra1fub08324ezz036u,cl8k2u1ra1fub08324ezz036u,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1ps1e0b08329arp8xig,cl8k2u1ps1e0b08329arp8xig,What type of polyp is present?,What type of polyp is identified in the colon?,polyp consistent with hyperplastic type
+cl8k2u1px1e7r083210068epn,cl8k2u1px1e7r083210068epn,What type of polyp is present?,What type of polyp is observed?,adenomatous polyp identified
+cl8k2u1r61fn7083227omcdwh,cl8k2u1r61fn7083227omcdwh,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 5 to 10 millimeters
+clb0lbwzcdp08086u1tnn800j,clb0lbwzcdp08086u1tnn800j,What type of polyp is present?,What type of colonic polyp is identified?,adenomatous polyp noted
+cl8k2u1py1e9r08323mc42jhg,cl8k2u1py1e9r08323mc42jhg,How many polyps are in the image?,How many polyps are visible in the image?,one polyp noted
+cl8k2u1rc1fxj08320z30bgrq,cl8k2u1rc1fxj08320z30bgrq,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of paris-type polyp
+cl8k2u1rb1fvr083227vggwmk,cl8k2u1rb1fvr083227vggwmk,How many polyps are in the image?,How many polyps are present in the image?,one visible polyp
+cl8k2u1rc1fxj08320z30bgrq,cl8k2u1rc1fxj08320z30bgrq,What is the size of the polyp?,What is the size of the observed polyp?,polyp measuring greater than 20 millimeters
+cl8k2u1qf1etn08323g2b7s2t,cl8k2u1qf1etn08323g2b7s2t,What type of polyp is present?,What type of polyp is observed in the colon?,classified as paris ii a type
+cl8k2u1rh1g57083294xncaia,cl8k2u1rh1g57083294xncaia,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,evidence of paris-type polyp
+cl8k2u1qc1eon0832a2x85h2w,cl8k2u1qc1eon0832a2x85h2w,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,evidence of paris type polyp
+cl8k2u1r51fln0832hlfl7xxo,cl8k2u1r51fln0832hlfl7xxo,What type of polyp is present?,What type of polyp is observed?,polyp consistent with paris iia classification
+clb0lbwzbdoz8086ub4pp7823,clb0lbwzbdoz8086ub4pp7823,How many polyps are in the image?,How many polyps are visible in the image?,one colonic polyp observed
+cl8k2u1rs1gnn0832gspp2xwq,cl8k2u1rs1gnn0832gspp2xwq,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of paris-type polyp
+cl8k2u1s61gwb0832cv7r4a6x,cl8k2u1s61gwb0832cv7r4a6x,What is the size of the polyp?,What is the size of the polyp?,polyp measures 5 to 10 millimeters
+cl8k2u1q91ejz0832654jgqwx,cl8k2u1q91ejz0832654jgqwx,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures 11 to 20 millimeters
+cl8k2u1rb1fvv0832122m8vql,cl8k2u1rb1fvv0832122m8vql,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1qa1ekz08324rek2qcv,cl8k2u1qa1ekz08324rek2qcv,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures less than 5 millimeters
+cl8k2u1r51flj0832fhenefrm,cl8k2u1r51flj0832fhenefrm,What type of polyp is present?,What type of polyp is identified in the image?,polyp consistent with paris iia classification
+cl8k2u1r81fqr0832eeadej89,cl8k2u1r81fqr0832eeadej89,How many polyps are in the image?,How many polyps are visible in the image?,single polyp observed
+cl8k2u1py1e9r08323mc42jhg,cl8k2u1py1e9r08323mc42jhg,What is the size of the polyp?,What is the size of the observed polyp?,polyp greater than 20 millimeters in size
+clb0lbwzddp1k086uai6ke9bz,clb0lbwzddp1k086uai6ke9bz,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of pedunculated polyp
+cl8k2u1qu1faf0832660f7z81,cl8k2u1qu1faf0832660f7z81,What type of polyp is present?,What type of polyp is identified in the examination?,polyp consistent with paris iia classification
+cl8k2u1rh1g57083294xncaia,cl8k2u1rh1g57083294xncaia,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 11 to 20 millimeters
+clb0lbwzkdp9w086u14u8g6v8,clb0lbwzkdp9w086u14u8g6v8,What is the size of the polyp?,What is the size of the polyp?,polyp measures between 11 to 20 millimeters
+cl8k2u1r81fqr0832eeadej89,cl8k2u1r81fqr0832eeadej89,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures between 11 to 20 millimeters
+cl8k2u1q21ef3083281hg99ik,cl8k2u1q21ef3083281hg99ik,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,evidence of paris-type polyp morphology
+cl8k2u1rc1fy708323s0b9fz5,cl8k2u1rc1fy708323s0b9fz5,What is the size of the polyp?,What is the size of the identified polyp?,polyp larger than 20 millimeters
+cl8k2u1rb1fvj08321qg834vk,cl8k2u1rb1fvj08321qg834vk,What is the size of the polyp?,What are the sizes of the polyps observed?,polyps measuring 5 to 10 millimeters and 11 to 20 millimeters
+cl8k2u1px1e7r083210068epn,cl8k2u1px1e7r083210068epn,How many polyps are in the image?,How many polyps are visible in the image?,one polyp detected
+cl8k2u1q01ec30832areqcwz9,cl8k2u1q01ec30832areqcwz9,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1qu1f9n08329n830vkj,cl8k2u1qu1f9n08329n830vkj,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures less than 5 millimeters
+cl8k2u1rb1fvv0832122m8vql,cl8k2u1rb1fvv0832122m8vql,What type of polyp is present?,What is the type of polyp identified?,polyp with sessile morphology
+cl8k2u1r91ft308328thwcln0,cl8k2u1r91ft308328thwcln0,What is the size of the polyp?,What is the size of the identified polyp?,polyp larger than twenty millimeters
+cl8k2u1qq1f2z08321wur88n7,cl8k2u1qq1f2z08321wur88n7,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 11 to 20 millimeters
+clb0lbwz8dovc086uaq3u7u8m,clb0lbwz8dovc086uaq3u7u8m,How many polyps are in the image?,How many polyps are present in the image?,one polyp detected
+cl8k2u1rb1fvz0832auie3734,cl8k2u1rb1fvz0832auie3734,How many polyps are in the image?,How many polyps are present in the gastrointestinal tract shown?,one polyp observed
+cl8k2u1po1dxj0832cfis0nt5,cl8k2u1po1dxj0832cfis0nt5,How many polyps are in the image?,How many polyps are visible in the image?,one polyp present
+cl8k2u1pz1e9z083290wz8o35,cl8k2u1pz1e9z083290wz8o35,What type of polyp is present?,What is the type of polyp identified?,hyperplastic polyp in the rectum
+cl8k2u1rb1fvr083227vggwmk,cl8k2u1rb1fvr083227vggwmk,What type of polyp is present?,What type of polyp is observed in the colon?,polyp with characteristic features of hyperplastic type
+cl8k2u1s81gxr083293jrf6fb,cl8k2u1s81gxr083293jrf6fb,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures less than 5 millimeters
+cl8k2u1rb1fvj08321qg834vk,cl8k2u1rb1fvj08321qg834vk,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,adenomatous polyp detected
+cl8k2u1pw1e6n0832bvpu2oxu,cl8k2u1pw1e6n0832bvpu2oxu,What type of polyp is present?,What type of polyp is observed?,polyp consistent with paris type
+cl8k2u1pw1e6n0832bvpu2oxu,cl8k2u1pw1e6n0832bvpu2oxu,How many polyps are in the image?,How many polyps are visible in the image?,single polyp observed
+cl8k2u1qw1fdf08323oe96gp8,cl8k2u1qw1fdf08323oe96gp8,What is the size of the polyp?,What is the dimensions of the polyp?,polyp measures between 5 to 10 millimeters
+cl8k2u1qf1etn08323g2b7s2t,cl8k2u1qf1etn08323g2b7s2t,What is the size of the polyp?,What is the size of the polyp observed?,polyp measures between 5 to 10 millimeters
+clb0lbwz4dorc086u9cehhyoc,clb0lbwz4dorc086u9cehhyoc,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring between 5 to 10 millimeters
+cl8k2u1rm1gdz08320ch8eymz,cl8k2u1rm1gdz08320ch8eymz,How many polyps are in the image?,How many polyps are visible in the image?,one polyp observed
+cl8k2u1rk1gb70832ftqpa6hv,cl8k2u1rk1gb70832ftqpa6hv,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1qe1ern0832hpgj7kgo,cl8k2u1qe1ern0832hpgj7kgo,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,polyp consistent with paris iia classification
+cl8k2u1qb1emj0832h81ia67l,cl8k2u1qb1emj0832h81ia67l,How many polyps are in the image?,How many polyps are present in the image?,Two visible polyps
+cl8k2u1s31gsf08324un1e87w,cl8k2u1s31gsf08324un1e87w,How many polyps are in the image?,How many polyps are present in the gastrointestinal image?,one visible polyp
+cl8k2u1pz1eaz0832c6w8a7jf,cl8k2u1pz1eaz0832c6w8a7jf,What is the size of the polyp?,What is the dimension of the polyp?,polyp larger than 20 millimeters
+cl8k2u1rl1gbr08324xw49hdq,cl8k2u1rl1gbr08324xw49hdq,What type of polyp is present?,What type of polyp is observed?,evidence of parietal polypoid lesion
+clb0lbwyndoc4086ufugg5lny,clb0lbwyndoc4086ufugg5lny,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of parisian-type polyps
+cl8k2u1po1dxr0832134h89bv,cl8k2u1po1dxr0832134h89bv,How many polyps are in the image?,How many polyps are visible in the image?,one small polyp observed
+cl8k2u1q91ejz0832654jgqwx,cl8k2u1q91ejz0832654jgqwx,What type of polyp is present?,What is the type of polyp seen in the image?,evidence of sessile polyp in the colon
+cl8k2u1q01ec30832areqcwz9,cl8k2u1q01ec30832areqcwz9,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of parietal polyp formation
+cl8k2u1s31gr70832bg6f1pbx,cl8k2u1s31gr70832bg6f1pbx,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,polyp with villous features
+cl8k2u1qb1emn08329of3h1wc,cl8k2u1qb1emn08329of3h1wc,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 5 to 10 millimeters
+clb0lbwz4doqw086u45hw7gnu,clb0lbwz4doqw086u45hw7gnu,What type of polyp is present?,What is the type of polyp seen in the image?,pedunculated polyp with irregular surface
+cl8k2u1rc1fy708323s0b9fz5,cl8k2u1rc1fy708323s0b9fz5,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of paris-type polypoid lesion
+clb0lbwz4dorc086u9cehhyoc,clb0lbwz4dorc086u9cehhyoc,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1re1g0308323bo95y7k,cl8k2u1re1g0308323bo95y7k,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1rj1g970832ggw5aryx,cl8k2u1rj1g970832ggw5aryx,How many polyps are in the image?,How many polyps are present in the image?,one polyp identified
+cl8k2u1rb1fvv0832122m8vql,cl8k2u1rb1fvv0832122m8vql,How many polyps are in the image?,How many polyps are visible in the image?,single polyp observed
+cl8k2u1rf1g2n08320hdhely7,cl8k2u1rf1g2n08320hdhely7,What type of polyp is present?,What type of polyp is observed?,evidence of parietal polypoid lesion
+cl8k2u1s31gr70832bg6f1pbx,cl8k2u1s31gr70832bg6f1pbx,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures between 11 and 20 millimeters
+clb0lbwz4dorc086u9cehhyoc,clb0lbwz4dorc086u9cehhyoc,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,adenomatous polyp seen in the colon
+cl8k2u1py1e9r08323mc42jhg,cl8k2u1py1e9r08323mc42jhg,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of paris-type polyp
+cl8k2u1po1dxj0832cfis0nt5,cl8k2u1po1dxj0832cfis0nt5,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring less than 5 millimeters
+cl8k2u1qc1eon0832a2x85h2w,cl8k2u1qc1eon0832a2x85h2w,What is the size of the polyp?,What is the size of the polyp detected?,polyp measures 5 to 10 millimeters
+cl8k2u1qa1ekz08324rek2qcv,cl8k2u1qa1ekz08324rek2qcv,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of paris polypoid lesion
+cl8k2u1qw1fdf08323oe96gp8,cl8k2u1qw1fdf08323oe96gp8,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1qd1epz08320r3i79i7,cl8k2u1qd1epz08320r3i79i7,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of pedunculated polyp
+cl8k2u1rj1g970832ggw5aryx,cl8k2u1rj1g970832ggw5aryx,What type of polyp is present?,What type of polyp is observed?,adenomatous polyp detected
+clb0lbwzpdpgo086ucmqx7nyu,clb0lbwzpdpgo086ucmqx7nyu,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,polyp with a pedunculated appearance
+cl8k2u1qb1emn08329of3h1wc,cl8k2u1qb1emn08329of3h1wc,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,polyp consistent with paris iia classification
+cl8k2u1r71fpz0832577ffviu,cl8k2u1r71fpz0832577ffviu,What type of polyp is present?,What type of polyp is identified in the image?,evidence of paris-type polyp
+cl8k2u1qj1exn0832bklgfifk,cl8k2u1qj1exn0832bklgfifk,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of paris iia polypoid lesion
+cl8k2u1qh1ewn083268v3cizw,cl8k2u1qh1ewn083268v3cizw,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,polyp with sessile configuration
+clb0lbwz7dous086u413h19fr,clb0lbwz7dous086u413h19fr,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1rp1giv0832eo3o2ax1,cl8k2u1rp1giv0832eo3o2ax1,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures 11 to 20 millimeters
+cl8k2u1rk1gb70832ftqpa6hv,cl8k2u1rk1gb70832ftqpa6hv,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring greater than 20 millimeters
+cl8k2u1qq1f2z08321wur88n7,cl8k2u1qq1f2z08321wur88n7,How many polyps are in the image?,How many polyps are visible in the image?,one small polyp present
+cl8k2u1rn1gfz08329dco29e5,cl8k2u1rn1gfz08329dco29e5,How many polyps are in the image?,How many polyps are present in the image?,one polyp noted
+cl8k2u1pw1e6708323y1papdi,cl8k2u1pw1e6708323y1papdi,What type of polyp is present?,What is the classification of the polyp observed?,polyp consistent with Paris type IIA
+cl8k2u1po1dxr0832134h89bv,cl8k2u1po1dxr0832134h89bv,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1ri1g6z0832bhcvbzco,cl8k2u1ri1g6z0832bhcvbzco,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1pu1e2z0832adw0h64p,cl8k2u1pu1e2z0832adw0h64p,What type of polyp is present?,What type of polyp is identified in the image?,evidence of parietal polyp
+clb0lbwzbdozs086uc9cf863b,clb0lbwzbdozs086uc9cf863b,What is the size of the polyp?,What is the size of the detected polyp?,polyp larger than 20 millimeters
+cl8k2u1s31gr70832bg6f1pbx,cl8k2u1s31gr70832bg6f1pbx,How many polyps are in the image?,How many polyps are visible in the image?,one visible polyp
+clb0lbwzldpas086u7wmu2i4r,clb0lbwzldpas086u7wmu2i4r,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1rp1ghn0832hi704dfd,cl8k2u1rp1ghn0832hi704dfd,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring between 5 and 10 millimeters
+clb0lbwz8dovw086u05yk7u55,clb0lbwz8dovw086u05yk7u55,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of pedunculated polyp
+cl8k2u1qr1f5r0832h09pejru,cl8k2u1qr1f5r0832h09pejru,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1s81gxj0832bokx1tpc,cl8k2u1s81gxj0832bokx1tpc,How many polyps are in the image?,How many polyps are present in the image?,one polyp seen
+cl8k2u1rl1gc30832hzw32av2,cl8k2u1rl1gc30832hzw32av2,What type of polyp is present?,What type of polyp is observed?,evidence of paris-type polyp
+cl8k2u1r31fiz0832duwaht8l,cl8k2u1r31fiz0832duwaht8l,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of parietal polypoid lesion
+clb0lbwyndoc4086ufugg5lny,clb0lbwyndoc4086ufugg5lny,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures 5 to 10 millimeters
+cl8k2u1q91ejz0832654jgqwx,cl8k2u1q91ejz0832654jgqwx,How many polyps are in the image?,How many polyps are visible in the image?,single polyp observed
+cl8k2u1pu1e2z0832adw0h64p,cl8k2u1pu1e2z0832adw0h64p,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1r91fsf08326j9n4iwr,cl8k2u1r91fsf08326j9n4iwr,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of parietal polypoid lesion
+cl8k2u1pz1eaz0832c6w8a7jf,cl8k2u1pz1eaz0832c6w8a7jf,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of pedunculated polyp
+cl8k2u1qj1exn0832bklgfifk,cl8k2u1qj1exn0832bklgfifk,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1qv1fbj08322yq17mq6,cl8k2u1qv1fbj08322yq17mq6,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1pv1e4v0832ap412ikk,cl8k2u1pv1e4v0832ap412ikk,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of paris-type polyps
+cl8k2u1rf1g2n08320hdhely7,cl8k2u1rf1g2n08320hdhely7,What is the size of the polyp?,What is the size of the polyp?,polyp measuring between 11 to 20 millimeters
+cl8k2u1pu1e3z0832boad4onn,cl8k2u1pu1e3z0832boad4onn,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures 11 to 20 millimeters
+clb0lbwz9dowk086uh2wxexpq,clb0lbwz9dowk086uh2wxexpq,What type of polyp is present?,What type of colonic polyp is observed?,pedunculated polyp with smooth surface
+cl8k2u1ra1fub08324ezz036u,cl8k2u1ra1fub08324ezz036u,What type of polyp is present?,What is the type of polyp identified?,evidence of paris-type polyp
+clb0lbwzddp1k086uai6ke9bz,clb0lbwzddp1k086uai6ke9bz,What is the size of the polyp?,What is the size of the polyp detected?,polyp measuring 11 to 20 millimeters
+cl8k2u1q21een0832hbnr9356,cl8k2u1q21een0832hbnr9356,How many polyps are in the image?,How many polyps are visible in the image?,one colonic polyp detected
+cl8k2u1qb1emj0832h81ia67l,cl8k2u1qb1emj0832h81ia67l,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures 11 to 20 millimeters
+cl8k2u1rd1fz308322xkx52fa,cl8k2u1rd1fz308322xkx52fa,How many polyps are in the image?,How many polyps are present in the image?,one visible polyp
+cl8k2u1rs1gnn0832gspp2xwq,cl8k2u1rs1gnn0832gspp2xwq,What is the size of the polyp?,What is the size of the polyp detected?,polyp measuring 5 to 10 millimeters
+clb0lbwzqdph8086u0xcbg904,clb0lbwzqdph8086u0xcbg904,What type of polyp is present?,What type of polyp is observed in the colon?,hyperplastic polyp in the rectosigmoid region
+clb0lbwzddp1k086uai6ke9bz,clb0lbwzddp1k086uai6ke9bz,Have all polyps been removed?,Has the removal of all polyps been confirmed?,all polyps have been successfully removed
+cl8k2u1re1g0308323bo95y7k,cl8k2u1re1g0308323bo95y7k,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of paris-type polypoid lesion
+cl8k2u1s81gxr083293jrf6fb,cl8k2u1s81gxr083293jrf6fb,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1ro1ggv0832a9zc5yd4,cl8k2u1ro1ggv0832a9zc5yd4,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1qh1ew3083264oqgn69,cl8k2u1qh1ew3083264oqgn69,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,polyp consistent with paris iia classification
+cl8k2u1rr1gkz08328k7q01on,cl8k2u1rr1gkz08328k7q01on,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of paris-type polyp
+cl8k2u1s61gv7083246ql99yw,cl8k2u1s61gv7083246ql99yw,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of paris type polyp
+cl8k2u1q01ec30832areqcwz9,cl8k2u1q01ec30832areqcwz9,What is the size of the polyp?,What is the size of the polyp?,polyp measuring greater than 20 mm
+cl8k2u1r51flj0832fhenefrm,cl8k2u1r51flj0832fhenefrm,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1pz1eaz0832c6w8a7jf,cl8k2u1pz1eaz0832c6w8a7jf,How many polyps are in the image?,How many polyps are visible in the image?,five sessile polyps detected
+cl8k2u1q11edb08321lvz4fee,cl8k2u1q11edb08321lvz4fee,What type of polyp is present?,What type of polyp is observed in the colon?,polyp consistent with paris type iia morphology
+cl8k2u1pu1e3v083257f95du5,cl8k2u1pu1e3v083257f95du5,How many polyps are in the image?,How many polyps are visible in the image?,one polyp noted
+cl8k2u1qf1etr0832g1k5358d,cl8k2u1qf1etr0832g1k5358d,What type of polyp is present?,What is the classification of the polyp observed?,features consistent with paris iia polyp
+cl8k2u1pz1e9z083290wz8o35,cl8k2u1pz1e9z083290wz8o35,How many polyps are in the image?,How many polyps are visible in the image?,one polyp noted
+cl8k2u1r81fqr0832eeadej89,cl8k2u1r81fqr0832eeadej89,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of paris polypoid lesion
+cl8k2u1st1gyj083285aq0ksj,cl8k2u1st1gyj083285aq0ksj,What is the size of the polyp?,What is the size of the identified polyp?,polyp measures less than 5 millimeters
+cl8k2u1rp1ghr0832c3ml8xu1,cl8k2u1rp1ghr0832c3ml8xu1,What is the size of the polyp?,What is the size of the polyp?,polyp measuring greater than 20 millimeters
+cl8k2u1rp1ghr0832c3ml8xu1,cl8k2u1rp1ghr0832c3ml8xu1,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,evidence of paris-type polyp
+cl8k2u1qa1ekz08324rek2qcv,cl8k2u1qa1ekz08324rek2qcv,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1qv1fbj08322yq17mq6,cl8k2u1qv1fbj08322yq17mq6,What is the size of the polyp?,What is the dimensions of the polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1qu1f9n08329n830vkj,cl8k2u1qu1f9n08329n830vkj,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1rb1fvz0832auie3734,cl8k2u1rb1fvz0832auie3734,What type of polyp is present?,What is the type of polyp identified?,evidence of pedunculated polyp
+cl8k2u1ra1fub08324ezz036u,cl8k2u1ra1fub08324ezz036u,What is the size of the polyp?,What is the size of the polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1r91fsf08326j9n4iwr,cl8k2u1r91fsf08326j9n4iwr,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 11 to 20 millimeters
+clb0lbwz9dowk086uh2wxexpq,clb0lbwz9dowk086uh2wxexpq,How many polyps are in the image?,How many polyps are visible in the image?,one visible polyp
+clb0lbwzbdozo086u48f73cek,clb0lbwzbdozo086u48f73cek,Have all polyps been removed?,Have all identified polyps been completely excised?,All polyps have been successfully removed
+cl8k2u1st1gyj083285aq0ksj,cl8k2u1st1gyj083285aq0ksj,What type of polyp is present?,What type of polyp is observed in the colon?,polyp consistent with paris iia classification
+cl8k2u1qd1epz08320r3i79i7,cl8k2u1qd1epz08320r3i79i7,How many polyps are in the image?,How many polyps are visible in the image?,one polyp present
+cl8k2u1r91ft308328thwcln0,cl8k2u1r91ft308328thwcln0,What type of polyp is present?,What is the type of polyp observed?,hyperplastic polyp in the rectum
+cl8k2u1qw1fcj0832dn27bew0,cl8k2u1qw1fcj0832dn27bew0,What type of polyp is present?,What type of polyp is observed in the colon?,polyp resembling paris iia morphology
+cl8k2u1qj1exn0832bklgfifk,cl8k2u1qj1exn0832bklgfifk,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1r51fmj08323olc6u0o,cl8k2u1r51fmj08323olc6u0o,What type of polyp is present?,What type of polyp is observed in the image?,polyp with characteristic Paris appearance
+cl8k2u1r91fsf08326j9n4iwr,cl8k2u1r91fsf08326j9n4iwr,How many polyps are in the image?,How many polyps are visible in the image?,one colonic polyp observed
+cl8k2u1r51flj0832fhenefrm,cl8k2u1r51flj0832fhenefrm,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring less than 5 millimeters
+cl8k2u1qu1faf0832660f7z81,cl8k2u1qu1faf0832660f7z81,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1pz1e9z083290wz8o35,cl8k2u1pz1e9z083290wz8o35,What is the size of the polyp?,What is the size of the detected polyp?,polyp larger than 20 millimeters
+clb0lbwzbdozs086uc9cf863b,clb0lbwzbdozs086uc9cf863b,Have all polyps been removed?,Has complete removal of all polyps been achieved?,All polyps have been successfully removed
+cl8k2u1qh1ew3083264oqgn69,cl8k2u1qh1ew3083264oqgn69,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+clb0kvxvp912k074y1exo79ka,clb0kvxvp912k074y1exo79ka,What type of polyp is present?,What is the classification of the polyp observed?,polyp classified as Paris IIa
+cl8k2u1qe1erz083248dea2ra,cl8k2u1qe1erz083248dea2ra,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,evidence of paris iia classification
+clb0lbwz7dous086u413h19fr,clb0lbwz7dous086u413h19fr,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,presence of pedunculated polyp
+cl8k2u1rm1gdf08322c548w2q,cl8k2u1rm1gdf08322c548w2q,What is the size of the polyp?,What is the size of the polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1qe1erz083248dea2ra,cl8k2u1qe1erz083248dea2ra,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring greater than 20 millimeters
+cl8k2u1qu1faf0832660f7z81,cl8k2u1qu1faf0832660f7z81,How many polyps are in the image?,How many polyps are visible in the image?,One polyp detected
+cl8k2u1rb1fvr083227vggwmk,cl8k2u1rb1fvr083227vggwmk,What is the size of the polyp?,What is the size of the identified polyp?,polyp measuring 5 to 10 millimeters
+cl8k2u1q11edb08321lvz4fee,cl8k2u1q11edb08321lvz4fee,How many polyps are in the image?,How many polyps are visible in the image?,one small polyp present
+cl8k2u1rm1ge708329c926y3m,cl8k2u1rm1ge708329c926y3m,What type of polyp is present?,What type of polyp is observed?,evidence of parietal polypoid lesion
+cl8k2u1qr1f5j08325e5i8d1w,cl8k2u1qr1f5j08325e5i8d1w,What type of polyp is present?,What is the type of polyp observed?,evidence of paris-type polyp
+cl8k2u1rl1gc30832hzw32av2,cl8k2u1rl1gc30832hzw32av2,How many polyps are in the image?,How many polyps are visible in the image?,single polyp observed
+clb0lbwzkdp9w086u14u8g6v8,clb0lbwzkdp9w086u14u8g6v8,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1r51fln0832hlfl7xxo,cl8k2u1r51fln0832hlfl7xxo,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1qc1eon0832a2x85h2w,cl8k2u1qc1eon0832a2x85h2w,How many polyps are in the image?,How many polyps are visible in the image?,one polyp observed
+cl8k2u1q21ef3083281hg99ik,cl8k2u1q21ef3083281hg99ik,How many polyps are in the image?,How many polyps are visible in the image?,one small polyp observed
+cl8k2u1rp1ghr0832c3ml8xu1,cl8k2u1rp1ghr0832c3ml8xu1,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1ri1g6z0832bhcvbzco,cl8k2u1ri1g6z0832bhcvbzco,What type of polyp is present?,What type of polyp is identified in the image?,evidence of sessile polyp in the colon
+cl8k2u1re1g0f083216lt8w98,cl8k2u1re1g0f083216lt8w98,How many polyps are in the image?,How many polyps are visible in the image?,one visible polyp
+cl8k2u1qw1fdv083211twc2fo,cl8k2u1qw1fdv083211twc2fo,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures 5 to 10 millimeters
+clb0lbwzldpas086u7wmu2i4r,clb0lbwzldpas086u7wmu2i4r,How many polyps are in the image?,How many polyps are present in the image?,single polyp observed
+clb0lbwz7dous086u413h19fr,clb0lbwz7dous086u413h19fr,How many polyps are in the image?,How many polyps are visible in the image?,One polyp identified
+cl8k2u1ry1gof0832brgmhcz9,cl8k2u1ry1gof0832brgmhcz9,How many polyps are in the image?,How many polyps are visible in the image?,one polyp present
+cl8k2u1rd1fz308322xkx52fa,cl8k2u1rd1fz308322xkx52fa,What type of polyp is present?,What is the type of polyp observed?,adenomatous polyp noted
+cl8k2u1q11edb08321lvz4fee,cl8k2u1q11edb08321lvz4fee,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring less than 5 millimeters
+cl8k2u1pu1e3z0832boad4onn,cl8k2u1pu1e3z0832boad4onn,How many polyps are in the image?,How many polyps are present in the image?,single polyp noted
+cl8k2u1pw1e6708323y1papdi,cl8k2u1pw1e6708323y1papdi,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1qd1eqf0832a1g004hb,cl8k2u1qd1eqf0832a1g004hb,How many polyps are in the image?,How many polyps are present in the image?,one polyp observed
+cl8k2u1ps1e0b08329arp8xig,cl8k2u1ps1e0b08329arp8xig,How many polyps are in the image?,How many polyps are visible in the image?,one polyp noted
+cl8k2u1ry1gof0832brgmhcz9,cl8k2u1ry1gof0832brgmhcz9,What type of polyp is present?,What type of polyp is identified in the imaging?,evidence of paris-type polyp
+cl8k2u1r61fn7083227omcdwh,cl8k2u1r61fn7083227omcdwh,What type of polyp is present?,What type of polyp is observed?,evidence of hyperplastic polyp
+cl8k2u1rr1gkz08328k7q01on,cl8k2u1rr1gkz08328k7q01on,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures 5 to 10 millimeters
+clb0lbwzkdp9w086u14u8g6v8,clb0lbwzkdp9w086u14u8g6v8,What type of polyp is present?,What type of polyp is observed?,evidence of pedunculated polyp
+cl8k2u1s11gpv08321jjf8usi,cl8k2u1s11gpv08321jjf8usi,What type of polyp is present?,What type of polyp is observed in the gastrointestinal tract?,adenomatous polyp detected
+cl8k2u1qe1erv08322xfkdfxq,cl8k2u1qe1erv08322xfkdfxq,What is the size of the polyp?,What is the diameter of the polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1qw1fdv083211twc2fo,cl8k2u1qw1fdv083211twc2fo,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of pedunculated polyp
+cl8k2u1rl1gbr08324xw49hdq,cl8k2u1rl1gbr08324xw49hdq,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures between 11 to 20 millimeters
+cl8k2u1pw1e6708323y1papdi,cl8k2u1pw1e6708323y1papdi,How many polyps are in the image?,How many polyps are visible in the image?,one polyp observed
+cl8k2u1ro1ggv0832a9zc5yd4,cl8k2u1ro1ggv0832a9zc5yd4,What is the size of the polyp?,What is the size of the detected polyp?,polyp measures between 11 to 20 millimeters
+cl8k2u1ry1gof0832brgmhcz9,cl8k2u1ry1gof0832brgmhcz9,What is the size of the polyp?,What is the size of the polyp?,polyp measures less than 5 millimeters
+cl8k2u1rm1gdf08322c548w2q,cl8k2u1rm1gdf08322c548w2q,How many polyps are in the image?,How many polyps are visible in the image?,single polyp identified
+cl8k2u1qw1fdv083211twc2fo,cl8k2u1qw1fdv083211twc2fo,How many polyps are in the image?,How many polyps are visible in the image?,one visible polyp
+clb0lbwzcdp08086u1tnn800j,clb0lbwzcdp08086u1tnn800j,What is the size of the polyp?,What is the size of the observed polyp?,polyp measures 11 to 20 millimeters
+cl8k2u1pu1e2z0832adw0h64p,cl8k2u1pu1e2z0832adw0h64p,How many polyps are in the image?,How many polyps are visible in the image?,one polyp present
+clb0lbwzbdoz8086ub4pp7823,clb0lbwzbdoz8086ub4pp7823,What is the size of the polyp?,What is the size of the polyp?,polyp measuring 11 to 20 millimeters
+cl8k2u1rp1ghn0832hi704dfd,cl8k2u1rp1ghn0832hi704dfd,What type of polyp is present?,What type of polyp is observed?,evidence of paris-type polyp
+cl8k2u1s61gwb0832cv7r4a6x,cl8k2u1s61gwb0832cv7r4a6x,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of paris type polyp
+cl8k2u1ro1ggv0832a9zc5yd4,cl8k2u1ro1ggv0832a9zc5yd4,What type of polyp is present?,What type of polyp is observed in the colon?,evidence of pedunculated polyp
+cl8k2u1s81gxj0832bokx1tpc,cl8k2u1s81gxj0832bokx1tpc,What type of polyp is present?,What type of polyp is identified in the gastrointestinal tract?,adenomatous polyp detected
+cl8k2u1qf1etr0832g1k5358d,cl8k2u1qf1etr0832g1k5358d,What is the size of the polyp?,What is the size of the detected polyp?,polyp measuring less than 5 millimeters
+cl8k2u1rm1gdz08320ch8eymz,cl8k2u1rm1gdz08320ch8eymz,What type of polyp is present?,What type of polyp is identified in the image?,polyp consistent with paris iia classification
+cl8k2u1qu1f9n08329n830vkj,cl8k2u1qu1f9n08329n830vkj,What type of polyp is present?,What type of colonic polyp is observed?,adenomatous polyp with sessile morphology
+cl8k2u1r71fpz0832577ffviu,cl8k2u1r71fpz0832577ffviu,How many polyps are in the image?,How many polyps are visible in the image?,one polyp identified
+cl8k2u1rc1fwz08322ztc5nk1,cl8k2u1rc1fwz08322ztc5nk1,What is the size of the polyp?,What is the size of the polyp?,polyp measuring between 11 to 20 millimeters
